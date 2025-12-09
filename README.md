@@ -45,23 +45,6 @@ Project ini membantu memahami:
 
 ---
 
-## ▶️ Cara Menjalankan Program
-
-1. Pastikan Python sudah terinstall.
-2. Clone repository:
-
-```
-git clone <repository-url>
-```
-
-3. Jalankan script:
-
-```
-python main.py
-```
-
----
-
 ## 📝 Catatan Tambahan
 
 Project ini terus dikembangkan seiring perjalanan belajar Python. Setiap fitur baru akan ditambahkan untuk meningkatkan pemahaman dan kualitas kode.
@@ -74,4 +57,4 @@ Project ini masih dalam tahap pembelajaran dan akan diperluas pada level berikut
 
 ---
 
-Terima kasih sudah melihat project ini! 🙌
+Terima kasih sudah melihat project ini! 
